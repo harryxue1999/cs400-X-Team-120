@@ -9,7 +9,7 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-Talk about our skills and decide how each of us are able to contribute. If someone is unable to do a task we talk and if someone is able to do it better, we will swap, if not we will work together to find a solution to the problem. 
+Talk about our skills and decide how each of us are able to contribute. If someone is unable to do a task we talk and if someone is able to do it better, we will swap tasks, if not we will work together to find a solution to the problem. 
 
 
 ## How will we track progress (and follow-up) on completion of tasks
