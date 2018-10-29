@@ -7,13 +7,13 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1: kmholden   name 1: Kristin Holden
-       * GitHub username 2: harryxue1999  name 2: Harry Xue
-       * GitHub username 3: rinawangyiting  name 3: Yiting Wang
-       * GitHub username 4: siyer6   name 4: Sahana Iyer
+       * GitHub username 1: [`kmholden`][kh]   name 1: **Kristin Holden**
+       * GitHub username 2: [`harryxue1999`][hx]  name 2: **Harry Xue**
+       * GitHub username 3: [`rinawangyiting`][rw]  name 3: **Yiting Wang**
+       * GitHub username 4: [`siyer6`][si]   name 4: **Sahana Iyer**
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 10/28/2018
-   * How long did it take your team to complete this exercise? 
+   * How long did it take your team to complete this exercise?
 
 ## Table of Contents
 
@@ -30,3 +30,8 @@
 * README.md
 * rules.md
 * proposal.md
+
+[kh]: https://github.com/kmholden
+[hx]: https://github.com/harryxue1999
+[rw]: https://github.com/rinawangyiting
+[si]: https://github.com/siyer6
