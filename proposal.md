@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 120  Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,6 +29,9 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
+You are the owner of a pet store. This program will help you keep track of the animals coming in and out, and the
+care necessary to maintain these animals, including feeding and hygiene. 
+
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
@@ -36,11 +39,40 @@ Describe at a high level a program that could solve that problem.
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
+Animal organizer. 
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
+It will produce a text menu, and take user input to show the animals in each seciton of the store, and their necessary care at that time. 
 
+~~~
+**PET STORE NAME 
+1. Care Needed
+  -----------
+  Dog1 - feed
+  Cat2 - clean
+  Snake3 - give medicine
+  -----------
+2. Current pets
+3. Sold pets
+
+Press the number to view that list: 
+
+
+
+ 
+ Press N to add a new pet
+ Press S to add sale of pet
+ Press C to add care needed
+ 
+ Press B to view list of birds
+ Press R to view list of reptiles
+ Press D to view list of dogs
+ Press F to view list of felines
+ Press
+ 
+~~~
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
