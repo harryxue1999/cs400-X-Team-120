@@ -1,4 +1,4 @@
-# X-Team 120  Project Proposal
+# X-Team 120  Animal Organizer Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -46,48 +46,27 @@ Animal organizer.
 
 It will produce a text menu, and take user input to show the animals in each seciton of the store, and their necessary care at that time. 
 
-~~~
-**PET STORE NAME 
-1. Care Needed
-  -----------
-  Dog1 - feed
-  Cat2 - clean
-  Snake3 - give medicine
-  -----------
-2. Current pets
-3. Sold pets
-
-Press the number to view that list: 
-
-
-
- 
- Press N to add a new pet
- Press S to add sale of pet
- Press C to add care needed
- 
- Press B to view list of birds
- Press R to view list of reptiles
- Press D to view list of dogs
- Press F to view list of felines
- Press
- 
-~~~
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-
+Type of pet added
+Sale of pet, time sold
+If care is needed
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-
+The user interface would be a text menu, where the user can view lists of current animals in the store, if care is needed for that pet, and a list of sold pets for record keeping. 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
+We need to break everything down into the store, each animal type in the store, a management system to keep track of which animal needs care.
 
 
 Name each interface or class and briefly describe its function or purpose.
 
+Animal class -> with specific pet types (bird, dog, cat, rodent, reptile) as classes that will be inherited    
+CareQueue class, where we will store the information of the care that is needed for each animal
+Store Class, will be the main class where everything is implemented, including keeping track of sales and adding new animals
 
 ## Edit and Submit this file and any figures referenced by this document.
 
